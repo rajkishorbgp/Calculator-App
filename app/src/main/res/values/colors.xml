@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!--theme-->
+    <color name="background">#fdf5e6</color>
+    <color name="allButtonBC">#FFFFFFFF</color>
+    <color name="buttonBC">#f8f8ff</color>
+    <color name="spcButtonBC">#D9DADC</color>
+
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Whites -->
+<!--    <color name="white">#ffffff</color>-->
+    <color name="antiqueWhiteColor">#faebd7</color>
+    <color name="oldLaceColor">#fdf5e6</color>
+    <color name="ivoryColor">#fffff0</color>
+    <color name="seashellColor">#fff5ee</color>
+    <color name="ghostWhiteColor">#f8f8ff</color>
+    <color name="snowColor">#fffafa</color>
+    <color name="linenColor">#faf0e6</color>
+
+
+    <!-- Blues -->
+    <color name="tealColor">#1ca0aa</color>
+    <color name="steelBlueColor">#6799aa</color>
+    <color name="robinEggColor">#8ddaf7</color>
+    <color name="pastelBlueColor">#63a1f7</color>
+    <color name="turquoiseColor">#70dbdb</color>
+    <color name="skyBlueColor">#00b2ee</color>
+    <color name="indigoColor">#0d4f8b</color>
+    <color name="denimColor">#4372aa</color>
+    <color name="blueberryColor">#5971ad</color>
+    <color name="cornflowerColor">#6495ed</color>
+    <color name="babyBlueColor">#bedce6</color>
+    <color name="midnightBlueColor">#0d1a23</color>
+    <color name="fadedBlueColor">#17899b</color>
+    <color name="icebergColor">#c8d5db</color>
+    <color name="waveColor">#66a9fb</color>
+
+
+
+    <!-- Reds -->
+    <color name="salmonColor">#e9575f</color>
+    <color name="brickRedColor">#971b10</color>
+    <color name="easterPinkColor">#f1a7a2</color>
+    <color name="grapefruitColor">#e41f36</color>
+    <color name="pinkColor">#ff5f9a</color>
+    <color name="indianRedColor">#cd5c5c</color>
+    <color name="strawberryColor">#be2625</color>
+    <color name="coralColor">#f08080</color>
+    <color name="maroonColor">#50041c</color>
+    <color name="watermelonColor">#f2473f</color>
+    <color name="tomatoColor">#ff6347</color>
+    <color name="pinkLipstickColor">#ff69b4</color>
+    <color name="paleRoseColor">#ffe4e1</color>
+    <color name="crimsonColor">#bb1224</color>
+
+
+
 </resources>
