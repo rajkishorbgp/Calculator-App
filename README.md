@@ -24,6 +24,8 @@ The Calculator App is a user-friendly application that allows users to perform b
 - Subtraction
 - Multiplication
 - Division
+- Power Calculation
+- Modulus Operation
 
 Each operation is executed accurately, and the app displays both the input and the result for clear understanding.
 
@@ -52,7 +54,7 @@ To install and use the Calculator App locally, follow these steps:
 ## Usage
 
 1. Launch the Calculator App on your device.
-2. Input the numbers and choose the desired operation (+, -, \*, /).
+2. Input the numbers and choose the desired operation (+, -, \*, /, ^, %).
 3. The app will display the result of the calculation.
 
 ## Contributing
