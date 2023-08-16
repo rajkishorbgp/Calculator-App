@@ -51,17 +51,6 @@
             android:orientation="horizontal">
 
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/btn_clear"
-                android:layout_width="82dp"
-                android:layout_height="72dp"
-                android:backgroundTint="@color/spcButtonBC"
-                android:text="@string/c"
-                android:textColor="@color/black"
-                android:layout_marginStart="10dp"
-                android:textSize="32sp"
-                app:cornerRadius="36dp" />
-
-            <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_back"
                 android:layout_width="82dp"
                 android:layout_height="72dp"
@@ -71,6 +60,18 @@
                 app:icon="@drawable/baseline_backspace_24"
                 app:iconSize="32dp"
                 app:iconTint="@color/black" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnsqr"
+                android:layout_width="82dp"
+                android:layout_height="72dp"
+                android:layout_margin="12dp"
+                app:cornerRadius="36dp"
+                android:text="@string/sqr"
+                android:textSize="50sp"
+                android:backgroundTint="@color/spcButtonBC"
+                android:textColor="@color/black"
+                />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnModulo"

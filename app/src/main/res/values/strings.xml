@@ -20,4 +20,5 @@
     <string name="_0">0</string>
     <string name="point_opt">.</string>
     <string name="equale_opt">=</string>
+    <string name="sqr">^</string>
 </resources>
