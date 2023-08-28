@@ -30,9 +30,8 @@ The Calculator App is a user-friendly application that allows users to perform b
 Each operation is executed accurately, and the app displays both the input and the result for clear understanding.
 
 ## Screenshots
-
-![Screenshot 1](link-to-screenshot-1.png)
-![Screenshot 2](link-to-screenshot-2.png)
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/calculatorApp/WhatsApp%20Image%202023-08-29%20at%2000.11.26.jpg">
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/calculatorApp/WhatsApp%20Image%202023-08-29%20at%2000.11.27.jpg">
 
 ## Technologies Used
 
